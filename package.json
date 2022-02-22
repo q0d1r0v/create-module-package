@@ -1,0 +1,22 @@
+{
+  "name": "kadirov-package-modules",
+  "version": "1.0.0",
+  "description": "for-btn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailuser1008/demo-btn.git"
+  },
+  "keywords": [
+    "user"
+  ],
+  "author": "by-kadirov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailuser1008/demo-btn/issues"
+  },
+  "homepage": "https://github.com/mailuser1008/demo-btn#readme"
+}
